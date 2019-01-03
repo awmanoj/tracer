@@ -1,4 +1,4 @@
-#tracer 
+# tracer 
 
 A test program using ptrace syscall on x86\_64 architecture to implement a debugger which will breakpoint on a function and print the registers value in the user\_regs\_struct structure. 
 
